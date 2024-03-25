@@ -1,0 +1,14 @@
+#header{
+    height: 100px;
+}
+
+#logo{
+    color:rebeccapurple
+}
+
+#nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
